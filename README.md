@@ -30,3 +30,13 @@ For the total lots the variance does not exceed 100 pounds per square inch but t
 
 ## T-Tests on Suspension Coils
 
+![Onesamplttest](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/5e7364fcfce6db7399648448195eba59bb59ae0a/Onesamplettest.png)
+
+![Lot1ttest](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/5e7364fcfce6db7399648448195eba59bb59ae0a/Lot1ttest.png)
+
+![Lot2ttest](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/5e7364fcfce6db7399648448195eba59bb59ae0a/Lot2ttest.png)
+
+![Lot3ttest](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/5e7364fcfce6db7399648448195eba59bb59ae0a/Lot3ttest.png)
+
+
+
