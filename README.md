@@ -20,8 +20,7 @@ Module 16 Challenge
 
 ### Total Summary Statistics
 
-![Total_summary]
-
+![Total_summary](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/c265413ae1cc5c7f73941825568391948f53e543/Total_summary.png)
 
 ### Summary Statistics by Manufacturing Lot
 
