@@ -30,6 +30,8 @@ For the total lots the variance does not exceed 100 pounds per square inch but t
 
 ## T-Tests on Suspension Coils
 
+While performing our T-Tests we can state that the two means in the sample test are statistically similar.
+While performing our T-Tests for each Manufacturing Lot we have different results depending on each lot; Lot 1 and Lot 2 are statistically different while Lot 3 is statistically similar.
 
 ### One Sample T-test
 ![Onesamplttest](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/5e7364fcfce6db7399648448195eba59bb59ae0a/Onesamplettest.png)
