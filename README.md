@@ -18,10 +18,12 @@ Module 16 Challenge
 
 ## Summary Statistics on Suspension Coils
 
+For the total lots the variance does not exceed 100 pounds per square inch but this is tricky, if we make the same variance analysis but by lot we can confirm that Lot3 has a value of 170.3 pounds per square inch, it is very high compared to the other two lots.
+
 ### Total Summary Statistics
 
 ![Total_summary](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/c265413ae1cc5c7f73941825568391948f53e543/Total_summary.png)
 
 ### Summary Statistics by Manufacturing Lot
 
-![Lot_summary]
+![Lot_summary](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/4670408b14cebd1a203ecf26ffc3851fcc12f587/Lot_summary.png)
