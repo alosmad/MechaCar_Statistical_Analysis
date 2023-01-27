@@ -49,3 +49,6 @@ As an hypothesis it is interestng to analyze low price and the relation with the
 The data that I need for each factor are the selling price, mpg, safety ranking and customer ranking.
 
 
+Alejandro Madrigal
+
+Data Analysis
