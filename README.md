@@ -42,5 +42,10 @@ While performing our T-Tests for each Manufacturing Lot we have different result
 ### Lot3 T-test
 ![Lot3ttest](https://github.com/alosmad/MechaCar_Statistical_Analysis/blob/5e7364fcfce6db7399648448195eba59bb59ae0a/Lot3ttest.png)
 
+## Study Design: MechaCar vs Competition
+
+For the statistical study to compare MechaCars vs Competition I researched on the most important factors that consumers care when buying a car, the three most important factors are: Fuel efficiency, Safety and Low Price; I am adding a forth one that is related on the reviews that consumers provide.
+As an hypothesis it is interestng to analyze low price and the relation with the other factors, for this I will choose to analysis, Pearson correlation matrix and Multiple Linear Regression.
+The data that I need for each factor are the selling price, mpg, safety ranking and customer ranking.
 
 
